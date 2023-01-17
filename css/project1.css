@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+.top-cotainer{
+position: absolute;
+background-color:aquamarine;
+top:0px;
+left:0px;
+right: 1000px;
+bottom: 455px;
+}
+.middle-container{
+    position: absolute;
+    background-color: red;
+    top:200px;
+    left:0px;
+    right: 1000px;
+    bottom: 255px; 
+}
+.bottem-container{
+    position: absolute;
+background-color: blue;
+top:400px;
+left:0px;
+right: 1000px;
+bottom: 10px;
+}
+.link{
+    position: absolute;
+    top:20px;
+    left:400px;
+    right: 700px;
+    bottom: 500px;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }

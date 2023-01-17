@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+.top-cotainer{
+position: absolute;
+background-color:aquamarine;
+top:0px;
+left:0px;
+right: 990px;
+bottom: 455px;
+border: 10px solid black;
+padding: 20px;
+}
+.middle-container{
+    position: absolute;
+    background-color: red;
+    top:200px;
+    left:300px;
+    right: 600px;
+    bottom: 255px; 
+    border: 20px solid black;
+}
+.bottem-container{
+    position: absolute;
+background-color: blue;
+top:400px;
+left:690px;
+right: 200px;
+bottom: 10px;
+border: 10px solid black;
+}

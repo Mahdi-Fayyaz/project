@@ -1,0 +1,86 @@
+.page{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    right: 100px;
+    bottom: 10px;
+    border: 2px solid black;
+}
+.logo{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    right: 470px;
+    bottom: 250px;
+    background-image: url(image/images.jpeg);
+}
+.head{
+    position: absolute;
+    top: 20px;
+    left: 0%;
+    right: 0%;
+    bottom: 600px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    color: brown;
+}
+.hadder{
+position: absolute;
+background-color:rgb(245, 237, 247);
+top:100px;
+left:0px;
+right: 0px;
+bottom: 500px;
+text-align: center;
+padding-top: 10px ;
+}
+.left{
+position: absolute;
+top:150px;
+left:200px;
+right: 100px;
+bottom: 200px;
+text-align: left;
+padding: 10px ;
+}
+.right{
+position: absolute;
+top:150px;
+left:600px;
+right: 10px;
+bottom: 250px;
+text-align: left;
+padding-left: 100px;
+}
+.bottem{
+position: absolute;
+top:400px;
+left:0px;
+right: 0px;
+bottom: 0px;
+text-align: center;
+padding: 10px ;
+}
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
